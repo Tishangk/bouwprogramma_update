@@ -10,6 +10,7 @@ De vorm en grootte van het object wordt bepaald op basis van de volgende drie in
 Deze opdracht is een schoolopdracht.
 
 **Used technologies** 
+
 De technologien die in dit project zijn gebruikt zijn:
 
 * Python
